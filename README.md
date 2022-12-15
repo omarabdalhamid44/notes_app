@@ -8,10 +8,7 @@ This project is a starting point for a Flutter application.
 
 using resources :
 
-state management bloc
-
-Firebase Authentcation
-
-Local DataBase (SqfLite)
-
-Flutter Widget
+* state management bloc
+* Firebase Authentcation
+* Local DataBase (SqfLite)
+* Flutter Widget
